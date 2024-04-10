@@ -6,7 +6,9 @@
 # Overview:
 This analysis presents a comprehensive "Animal Rights Index" compiled from key international data sources, evaluating and ranking countries based on their commitment to animal rights and welfare. The dataset includes various metrics ranging from the recognition of animal sentience to legislative measures against animal cruelty, fur-farming bans, and environmental factors impacting animal health. Following data preprocessing, the analysis progresses through correlation analysis, principal component analysis (PCA), cluster analysis, and factor analysis to unveil patterns and insights into global animal rights practices.
 
-# * Recognition of Animal Sentience and Suffering:
+# Data Dictionary
+
+* Recognition of Animal Sentience and Suffering:
 
 The minimum and maximum values for both recognition of animal sentience and suffering are 0 and 2, respectively.
 
